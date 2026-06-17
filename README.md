@@ -9,8 +9,8 @@
 
 | Version | Link |
 |---|---|
-| Latest APK | **[⬇ Download Checkmate.apk](https://github.com/amirshams8/checkmate/releases/latest)** |
-| Release Notes | [Changelog](https://github.com/amirshams8/checkmate/releases) |
+| Latest APK | **[⬇ Download Checkmate.apk](https://github.com/amirshams8/checkmate-web/releases/latest)** |
+| Release Notes | [Changelog](https://github.com/amirshams8/checkmate-web/releases) |
 
 > **Android 8.0+** required. Enable "Install from unknown sources" before installing.
 
